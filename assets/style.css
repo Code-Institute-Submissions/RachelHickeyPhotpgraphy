@@ -1,6 +1,19 @@
+ .navbar-brand {
+font-size: 25px;
+font-weight: bold;
+letter-spacing: 1px;
+
+}
+
+#navbarNav{
+    font-weight: bold;
+}
+
+
 .carousel-item{
     height: 100%;
     background: no-repeat center center scroll;
+    background-size: cover;
     
     
 }
