@@ -1,7 +1,5 @@
 # Code Institute
 
-Welcome Sophie,
+This is my first project. I have created a photography  scroll website using Bootstrap.
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+The 'portfolio' section is created using lightbox. All the images are this website are taken by th photograper Rachel.
