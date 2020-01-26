@@ -22,3 +22,20 @@ letter-spacing: 1px;
     
     
 }
+
+/* PORTFOLIO */
+.tz-gallery {
+    padding: 10px;
+}
+
+.tz-gallery img {
+    border-radius: 4px;
+}
+
+
+.tz-gallery .lightbox img {
+    width: 100%;
+    margin-bottom: 30px;
+    
+}
+
