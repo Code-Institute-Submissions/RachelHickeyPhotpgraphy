@@ -12,29 +12,29 @@ letter-spacing: 1px;
 background: rgba(0, 0, 0, .6)!important;
 }
 
-
  .navbar-brand {
-font-size: 25px;
+font-size: 22px;
 font-weight: bold;
 letter-spacing: 1px;
-
 }
 
+.navbar-nav li {
+    padding-right: .7rem;
+}
 
-
-
+/* slider */
 
 .carousel-item{
-    height: 100%;
+    height: 100%; /*vertical height */
     background: no-repeat center center scroll;
-    background-size: cover;
+    background-size: cover; 
     
     
 }
 
 /* About */
 #about {
-    padding-top: 50px;
+    padding-top: 70px;
     margin-bottom: 20px;
     
 }
@@ -42,22 +42,35 @@ letter-spacing: 1px;
 
 /* PORTFOLIO */
 #portfolio {
-padding-top: 40px;
+padding-top: 70px;
 }
+
 .tz-gallery {
     padding: 10px;
 }
 
 .tz-gallery img {
-    border-radius: 6px;
-   
+    border-radius: 6px;   
 }
-
 
 .tz-gallery .lightbox img {
     width: 100%;
     margin-bottom: 30px;
-    
+}
+
+/* Adds a shadow to the image when mouse hovers over*/
+.tz-gallery .lightbox img:hover {
+	transform: scale(1.05);
+	box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+}
+
+/* Contact */
+
+#contact {
+    padding-top: 70px;
+}
+form {
+;
 }
 
 /* Footer */
