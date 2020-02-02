@@ -68,10 +68,20 @@ padding-top: 70px;
 
 #contact {
     padding-top: 70px;
+    
+}
+.contact-form {
+    max-width: 500px;
+    margin: 2rem auto;
+    border: 2px solid;
+    padding: 2rem;
 }
 form {
-;
+    display: block;
+    width: 100%;
 }
+
+
 
 /* Footer */
 footer {
