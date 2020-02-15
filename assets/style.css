@@ -6,6 +6,7 @@ body {
 h2 {
     text-align: center;
     font-weight: bold;
+    text-decoration: underline;
 }
 
 
@@ -45,6 +46,15 @@ letter-spacing: 1px;
     
 }
 
+#selfie {
+    border-radius: 50%;
+}
+
+.about_me{
+    text-align: left;
+    display: inline-block;
+    
+}
 
 /* PORTFOLIO */
 #portfolio {
