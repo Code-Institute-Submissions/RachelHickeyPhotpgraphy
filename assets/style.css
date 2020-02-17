@@ -7,6 +7,7 @@ h2 {
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
+    color: #17202A;
 }
 
 
@@ -16,18 +17,22 @@ font-weight: 600;
 text-transform: uppercase;
 font-size: 16px;
 letter-spacing: 1px;
-background: rgba(0, 0, 0, .6)!important;
+background: rgba(0, 0, 0, .4)!important;
+
 }
 
  .navbar-brand {
-font-size: 22px;
+font-size: 30px;
 font-weight: bold;
 letter-spacing: 1px;
+color: #17202a!important;
 }
 
 .navbar-nav li {
     padding-right: .7rem;
 }
+
+
 
 /* slider */
 
@@ -50,7 +55,7 @@ letter-spacing: 1px;
 
 #selfie {
     border: solid #e6f2ff;
-    border-radius: 30px;
+    border-radius: 50px;
     margin-top: 30px;
 }
 
@@ -141,7 +146,7 @@ padding-top: 60px;
 footer {
    
    text-align: center;
-   background-color: #ccccff;
+    background-color:  #dab3ff;
 
 }
 
@@ -165,6 +170,6 @@ footer {
     text-align: center;
     font-weight: bold;
     padding-bottom: 1%;
-    background-color: black;
+    background-color: #e6ccff;
 
 }
