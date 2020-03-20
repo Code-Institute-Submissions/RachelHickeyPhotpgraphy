@@ -138,16 +138,6 @@ padding-top: 60px;
     padding-top: 70px;
     padding-bottom: 20px;
     background-color:  #e6f2ff;
-    
-}
-
-.ctext {
-    margin-top: 50px; 
-    left: 20px;
-}
-
-.ctext, p, i {
-    padding: 0;
 }
 
 .contact-form {
@@ -167,7 +157,7 @@ label {
 .text-input {
   
   width: 100%;  
-  border: 1px solid #893dec;
+  border: 1px solid black;
   margin: 9px 0;
   padding: 12 30px;
 }
