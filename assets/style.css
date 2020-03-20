@@ -4,11 +4,26 @@ body {
 }
 
 * {
-    margin: 0 auto;
-    border: 0;
+    margin: 0 ;
     padding: 0;
 
 }
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(transparent, #00def2);
+  border-radius: 6px;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(transparent, #5500f2);
+  border-radius: 6px;
+}
+
 
 h2 {
     text-align: center;
@@ -24,30 +39,37 @@ font-weight: 600;
 text-transform: uppercase;
 font-size: 16px;
 letter-spacing: 1px;
-background: rgba(0, 0, 0, 0.25)!important; 
+background: rgba(0, 0, 0, 0.6)!important; 
 
 }
 
  .navbar-brand {
+font-family:  sans-serif;
 font-size: 30px;
 font-weight: bold;
 letter-spacing: 1px;
-color: #17202a!important;
+color: #00BFFF!important;
 margin-left: 30px;
 
 }
+.nav-link {
+    color: #00BFFF!important;
+    transition: width 2s linear 1s;
+}
 
+.nav-link:hover {
+    color: red !important;
+    width: 200px; 
+}
 .navbar .navbar-collapse {
     text-align: center;
     margin-right: 15px;
 }
 
-
-
 .navbar-nav li {
     padding-right: .7rem;
+   
 }
-
 
 #main {
     width:100%;
@@ -116,7 +138,7 @@ padding-top: 60px;
     padding-top: 70px;
     padding-bottom: 20px;
     background-color:  #e6f2ff;
-   
+    
 }
 
 .ctext {
@@ -129,37 +151,40 @@ padding-top: 60px;
 }
 
 .contact-form {
+   
+    background-color: rgba(0, 0, 0, 0.25);
+    padding: 20px;
     max-width: 600px;
-    margin-top: 50px; 
-    font-weight: bold;
-    padding: 30px;
-    background-color: #cbd1cc;
-    /*background-color: rgba(60, 60, 60, 0.6); */
+    margin: auto;
+    
+}
 
+label {
+    color: black;
+    font-weight: bold;
 }
 
 .text-input {
-  color: black;
-  width: 100%;
-  height: 25px;
-  margin: 5px 0 20px 0;
-  border: 1px solid #fafafa;
-  border-radius: 2px;
   
-}
-.text-input:hover {
-  border-color: #f16c6b;
+  width: 100%;  
+  border: 1px solid #893dec;
+  margin: 9px 0;
+  padding: 12 30px;
 }
 
-.btn{
+.text-input:hover {
+  border-color: #893dec;
+  
+}
+
+.btn {
+  width: 100%;
   margin-top: 20px;
   border-radius: 2px;
-  padding: 15px 32px 15px 32px;
   text-align: center;
-  font-size: 100%;
   background-color: #f16c6b;
   color: #fafafa;
-  display: block;
+  
 }
 
 .btn:hover {
