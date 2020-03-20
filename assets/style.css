@@ -1,12 +1,11 @@
 body {
         scroll-behavior: smooth;
-
+        background-color: #e1e5eb;
 }
 
 * {
     margin: 0 ;
     padding: 0;
-
 }
 
 ::-webkit-scrollbar {
@@ -29,13 +28,13 @@ h2 {
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
-    color: #17202A;
+    color: #00BFFF;
 }
 
 
 /* navbar */
 .navbar {
-font-weight: 600;
+font-weight: bold;
 text-transform: uppercase;
 font-size: 16px;
 letter-spacing: 1px;
@@ -48,18 +47,18 @@ font-family:  sans-serif;
 font-size: 30px;
 font-weight: bold;
 letter-spacing: 1px;
-color: #00BFFF!important;
+color: #f16c6b!important;
 margin-left: 30px;
 
 }
 .nav-link {
-    color: #00BFFF!important;
-    transition: width 2s linear 1s;
+    color: #f16c6b!important;
+    
 }
 
 .nav-link:hover {
-    color: red !important;
-    width: 200px; 
+    color: #00BFFF !important;
+    
 }
 .navbar .navbar-collapse {
     text-align: center;
@@ -76,36 +75,30 @@ margin-left: 30px;
    
 }
 
-
-/* slider */
-
-.carousel-item{
-    height: 100%; /*vertical height */
-    background: no-repeat center center scroll;
-    background-size: cover; 
-    
-    
-}
-
 /* About */
+
 #about {
     padding-top: 60px;
     padding-bottom: 20px;
     margin-bottom: 20px;
-    background-color:  #e6f2ff;
+    
 
 }
 
 #selfie {
-    border: solid #e6f2ff;
+    border: 2px solid #f16c6b;
     border-radius: 50px;
-    margin-top: 30px;
+    margin-top: 5rem;
 }
 
-p{
-   padding-top: 5%;
-   letter-spacing: 2px;
-     
+span {
+    color: #f16c6b;
+    font-weight: bold;
+    font-size: 35px;
+}
+ p {
+   margin-top: 6rem;
+   
 }
 
 /* PORTFOLIO */
@@ -115,6 +108,7 @@ padding-top: 60px;
 
 .tz-gallery {
     padding: 10px;
+     margin-top: 5rem;
 }
 
 .tz-gallery img {
@@ -137,11 +131,10 @@ padding-top: 60px;
 #contact {
     padding-top: 70px;
     padding-bottom: 20px;
-    background-color:  #e6f2ff;
+    
 }
 
 .contact-form {
-   
     background-color: rgba(0, 0, 0, 0.25);
     padding: 20px;
     max-width: 600px;
@@ -186,7 +179,7 @@ label {
 
 /* Footer */
 footer {
-    background: black;
+    background: rgba(0, 0, 0, 0.6);
     text-align: center;
     color: white;
     padding-bottom: 5px;
@@ -203,7 +196,7 @@ footer {
 
 .social-networks i {
     margin: 1%;
-    color: #7e4b3c;
+    color: #00BFFF;
     
 }
 
@@ -216,23 +209,27 @@ footer {
     font-size: 10px;
 
 }
-/*
+
 @media screen and (max-width: 800px) {
-    .tz-gallery{
-    column-count: 2;
+    {
+    
   }
 }
 
 
 
-@media(min-width: 500px) {
+@media (min-width: 576px) {
     #main {
         width: 100%;
     }
 
-    #about, #selfie {
+    #about, #selfie, {
         width: 100%;
         padding: 0;
+        text-align: center;
+        
+    }
+    p {
         text-align: center;
     }
 }
