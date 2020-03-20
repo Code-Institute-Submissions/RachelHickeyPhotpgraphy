@@ -38,7 +38,12 @@ GitPod - Coding platform.
 
 HTML & CSS - Markup language of Website & CSS used to style HTML elements
 
-Bootstrap-Framework used to build responsive websites e.g  Navigation and portfolio 
-W3C - Used to validate HTML & CSS code
-WSC - Used to validate CSS code
+Bootstrap-Framework used to build responsive websites e.g  Navigation and portfolio.
 
+W3C - Used to validate HTML & CSS code.
+
+
+# Credits
+
+Media:
+The phots used in this site are the Clients.
