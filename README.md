@@ -33,8 +33,11 @@ Contains the clients social media pages, when clicked the user is brought to the
 # Technologies used
 
 GitHub - Used to store repository and deploy website.
+
 GitPod - Coding platform.
+
 HTML & CSS - Markup language of Website & CSS used to style HTML elements
+
 Bootstrap-Framework used to build responsive websites e.g  Navigation and portfolio 
 W3C - Used to validate HTML & CSS code
 WSC - Used to validate CSS code
