@@ -10,6 +10,15 @@ The website provides information about the photographer, examples of her work, l
 Live website https://sophieh93.github.io/milestone1-project-/ 
 
 # UX 
+<strong>User Goals</strong><br>
+<ol>
+    <li>Responsive on mobile, tabley & desktop </li>
+    <li>Brief description of who the client is & her services. </li>
+    <li>Gallery examples of the service </li>
+    <li>Contact form if the user wished to book a session.</li>
+    <li>Socia media links to if the user wished
+    to view morew of the clients work and follow her. </li>
+</ol>
 
 <strong>User Story</strong><br>
 <ul>
@@ -58,11 +67,13 @@ HTML & CSS - Markup language of Website & CSS used to style HTML elements
 
 Bootstrap-Framework used to build responsive websites e.g  Navigation and portfolio.
 
-W3C - Used to validate HTML & CSS code.
+W3C Markup Validation - Used to validate HTML.
+
+WSC CSS Validaion - Used to validate CSS.
 
 # Testing 
 
-W3C - Used to validate HTML & CSS code. <br>
+W3C Markup Validaion - Used to validate HTML & CSS code. <br>
 
 Google Chrome developer - Used to check that my website was responsive on all devices.
 
@@ -80,11 +91,4 @@ page in a new tab to the clients account.
 
 
 # Credits
-
-<<<<<<< HEAD
-Media:<br>
-The phots used in this site were provided by Rachel.
-=======
-Media:
-The phots used in this site were provided by Rachel.
->>>>>>> 18218ef2f760e0670f9c2676d26b74736b0b4093
+All images use in this site belong to Rachel.

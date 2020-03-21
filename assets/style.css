@@ -55,6 +55,7 @@ color: #f16c6b!important;
 margin-left: 30px;
 
 }
+
 .nav-link {
     color: #f16c6b!important;
     
@@ -217,7 +218,7 @@ footer {
     color: #f16c6b;
 }
 
-
+/*Small devices */
 @media screen and (max-width: 768px) { 
     li a {
         font-size: 20px;
