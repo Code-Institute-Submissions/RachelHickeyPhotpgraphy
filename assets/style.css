@@ -138,30 +138,32 @@ span {
 
 #contact {
     padding-top: 70px;
-    padding-bottom: 20px;
-    
-}
-
+    margin-bottom: 5%;
+       
+} 
+ #form {
+     margin-top: 5%;
+ }
 .contact-form {
-    background-color: rgba(0, 0, 0, 0.25);
-    padding: 20px;
-    max-width: 600px;
-    margin: auto;
+    background: #f5e5e5;
+    border: 1px solid #f16c6b;
+    max-width: 60%;
+    padding: 15px;   
+    margin: auto; 
     
 }
 
 label {
-    color: black;
-    font-weight: bold;
+   color: rgb(65, 63, 63);
+   font-weight: bold;
+   padding: 2px;
 }
 
 .text-input {
-  
-  width: 100%;  
-  border: 1px solid black;
-  margin: 9px 0;
-  padding: 12px 30px;
-}
+  width: 100%; 
+  border: 1px solid #f16c6b;
+      
+} 
 
 .text-input:hover {
   border-color: #00BFFF;
@@ -175,12 +177,13 @@ label {
   text-align: center;
   background-color: #f16c6b;
   color: #fafafa;
-  
+font-weight: bold;
 }
 
 .btn:hover {
-  background-color: #fafafa;
-  color: #f16c6b;
+  background-color: #ee9797;
+  color: rgba(65, 63, 63);
+  font-weight: bold;
 }
  
 
@@ -190,7 +193,7 @@ footer {
     background: rgba(0, 0, 0, 0.6);
     text-align: center;
     color: white;
-    padding-bottom: 5px;
+    padding-bottom:5px;
 
 }
 
