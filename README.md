@@ -3,7 +3,7 @@
 This is a static scroll website created for a freelance photographer Rachel Hickey.
 The website provides information about the photographer, examples of her work, links to her social media and a contact form.
 
-
+Live website https://sophieh93.github.io/milestone1-project-/ 
 # UX 
 
 User Centric Frontend Development Milestone Project.
