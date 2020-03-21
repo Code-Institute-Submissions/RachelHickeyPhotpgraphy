@@ -10,6 +10,16 @@ The website provides information about the photographer, examples of her work, l
 Live website https://sophieh93.github.io/milestone1-project-/ 
 
 # UX 
+
+<strong>Target Audience </strong> - General people who have an upcoming event, people
+who like the clients work and would like to be a model, people who would like to advertise thier
+new business e.g new fashion brand, new music band etc.
+
+
+<strong> </strong>
+<strong> </strong>
+<strong> </strong>
+
 <strong>User Goals</strong><br>
 <ol>
     <li>Responsive on mobile, tabley & desktop </li>
