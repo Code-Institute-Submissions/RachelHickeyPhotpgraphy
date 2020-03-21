@@ -11,12 +11,17 @@ Live website https://sophieh93.github.io/milestone1-project-/
 
 # UX 
 
-<img src="images/Capture.JPG"/>
-
 <strong>User Story</strong><br>
+<ul>
+    <li>As a user, I want to be able to view the website on different devices e.g phone, laptop etc.</li> 
+    <li>As a user, I want the site to be easy to use, with limited text to read.</li>
+    <li>As a user, I want to be able to view the clients work clearly.</li>
+    <li>As a user, I expect there to be a contact form that's straight forward to use.</li>
+    <li>Aa a user, I expect there to be links to the clients socia media account.</li>
+</ul>
 
 
-click to view wireframe
+click to view  <a href="wireframes">wireframe </a>
 
 # Features of the Website 
 The website consistes of 4 sections-Home, About, Portfolio and Contact. These are all fixed to the Navigation on the right side. When the user clicks on one of these tabs the website will scroll to that section.
