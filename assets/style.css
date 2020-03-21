@@ -17,13 +17,13 @@ html { /*Adds smooth scrolling between sections*/
 }
  
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(transparent, #00def2);
+  background: linear-gradient(transparent, #f16c6b);
   border-radius: 6px;
 }
 
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(transparent, #5500f2);
+  background: linear-gradient(transparent, #00BFFF);
   border-radius: 6px;
 }
 
