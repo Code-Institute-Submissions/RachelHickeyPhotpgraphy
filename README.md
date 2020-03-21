@@ -1,5 +1,9 @@
 # IAmRachelHickey
 
+![](images/Capture.JPG)
+
+
+
 This is a static scroll website created for a freelance photographer Rachel Hickey.
 The website provides information about the photographer, examples of her work, links to her social media and a contact form.
 
@@ -12,7 +16,7 @@ Live website https://sophieh93.github.io/milestone1-project-/
 <strong>User Story</strong><br>
 
 
-click <a href="wireframes">here</a> to view the wireframe
+click to view wireframe
 
 # Features of the Website 
 The website consistes of 4 sections-Home, About, Portfolio and Contact. These are all fixed to the Navigation on the right side. When the user clicks on one of these tabs the website will scroll to that section.
@@ -72,5 +76,10 @@ page in a new tab to the clients account.
 
 # Credits
 
+<<<<<<< HEAD
 Media:<br>
 The phots used in this site were provided by Rachel.
+=======
+Media:
+The phots used in this site were provided by Rachel.
+>>>>>>> 18218ef2f760e0670f9c2676d26b74736b0b4093
