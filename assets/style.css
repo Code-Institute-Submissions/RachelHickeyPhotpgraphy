@@ -155,7 +155,7 @@ label {
   width: 100%;  
   border: 1px solid black;
   margin: 9px 0;
-  padding: 12 30px;
+  padding: 12px 30px;
 }
 
 .text-input:hover {
@@ -226,9 +226,6 @@ footer {
         
     }
 
-    .nav-link {
-        color: blue;
-    }
     
      h2 {
        font-size: 40px;  
