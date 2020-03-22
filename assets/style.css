@@ -144,13 +144,13 @@ span {
  }
 
 .contact-form {
-    max-width: 700px;;
     background: #f5e5e5;
     border: 1px solid #f16c6b;
     padding: 15px;   
     margin: auto; 
     
 }
+
 
 label {
    color: rgb(65, 63, 63);
@@ -219,6 +219,17 @@ footer {
     font-size: 10px;
     color: #f16c6b;
 }
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+    
+    .navbar-brand { /* Changing the font size allows the nav links to align in the center */ 
+        font-size: 15px;
+    }
+
+       
+}
+
 
 /*desktop */
 @media screen and (max-width: 768px) { 
