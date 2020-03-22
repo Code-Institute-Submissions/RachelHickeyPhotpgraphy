@@ -116,16 +116,19 @@ span {
 
 .tz-gallery img {
     border-radius: 6px;   
+    transition: 1s;
 }
 
 .tz-gallery .lightbox img {
     width: 100%;
     margin-bottom: 30px;
+    
 }
 
 /* Adds a shadow to the image when mouse hovers over*/
 .tz-gallery .lightbox img:hover {
-	transform: scale(1.05);
+	transform: scale(1.2);
+    cursor: zoom-in;
 	box-shadow: 0 8px 15px rgba(0,0,0,0.3);
 }
 
@@ -227,15 +230,16 @@ footer {
     .navbar-brand {
         font-size: 20px;
     }
+
      h2 {
        font-size: 40px;  
      }
 
       p {
-       font-size: 25px;
-             
+       font-size: 25px;   
        
      }
+
      #selfie {
          margin-top: 20%;
          width: 100%;
