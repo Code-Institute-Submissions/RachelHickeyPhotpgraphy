@@ -138,13 +138,13 @@ span {
     padding: 70px;
     background-color: #e1e5eb;   
 } 
-/*
+
  #form {
      margin-top: 5%;
  }
-*/
+
 .contact-form {
-    
+    max-width: 700px;;
     background: #f5e5e5;
     border: 1px solid #f16c6b;
     padding: 15px;   
@@ -220,16 +220,12 @@ footer {
     color: #f16c6b;
 }
 
-/*Small devices */
+/*desktop */
 @media screen and (max-width: 768px) { 
     li a {
         font-size: 20px;
         
-    }
-
-    .navbar-brand {
-        font-size: 20px;
-    }
+    }    
 
      h2 {
        font-size: 40px;  
@@ -247,4 +243,40 @@ footer {
                  
      }
 }
+ /* 
+@media screen and (max-width: 480px) {
+  .about {
+    background: #000;
+  }
+}
 
+ /*phones
+@media screen and (max-width: 600px) { 
+    .navbar-brand {
+        font-size: 20px;
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+}
+/*IPAD Landscape 
+@media screen and (max-width: 1024px) {
+    .navbar-brand {
+        margin-left: 0;
+       color: purple;
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+    .nav-link {
+        font-size: 15px;
+        color: green;
+    }
+
+    .navbar-brand {
+        font-size: 20px;
+        margin-left: 0;
+        color: green;
+    }
+}
