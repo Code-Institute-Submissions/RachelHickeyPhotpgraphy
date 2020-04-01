@@ -115,8 +115,13 @@ page in a new tab to the clients account.
 
 
 # Bugs
-* **Bug** - Getting the font color/background color for the navigation so it was visible above the hero image. Most font colors faded into the hero image.
+1. **Bug** - Getting the font color/background color for the navigation so it was visible above the hero image. Most font colors faded into the hero image.
 * **Fix** - color code #f16c6b and #00BFFF works best for the navigation with a transparent backgrounf.
+
+2. **Bug**-The navigation toggle button was too large on phones and small devices-It covered too much of the hero image.  
+* **Fix**-Added the Font Awesome 'bars' icon.
+
+
 
 # Deployment
 I deployed the websit using GitHub's pages. The steps are as follows:   
