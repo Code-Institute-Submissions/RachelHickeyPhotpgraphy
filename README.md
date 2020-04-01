@@ -88,6 +88,9 @@ Ensured that when the user clicks on the social media link that the link works a
 page in a new tab to the clients account.
 
 
+# Bugs
+* **Bug** - Getting the font color/background color for the navigation so it was visible above the hero image. Most font colors faded into the hero image.
+* **Fix** - color code #f16c6b and #00BFFF works best for the navigation with a transparent backgrounf.
 
 # Credits
 All images use in this site belong to Rachel.
