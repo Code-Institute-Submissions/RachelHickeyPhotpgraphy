@@ -92,5 +92,15 @@ page in a new tab to the clients account.
 * **Bug** - Getting the font color/background color for the navigation so it was visible above the hero image. Most font colors faded into the hero image.
 * **Fix** - color code #f16c6b and #00BFFF works best for the navigation with a transparent backgrounf.
 
+# Deployment
+I deployed the websit using GitHub's pages. The steps are as follows:   
+1. Open my project repository on GitHub.
+2. On the top right select **settings**.
+3. Scroll down to **GitHub Pages**.
+4. From the **source** dropdown menu click on **Master Branch**.
+5. Website now live.
+
+
+
 # Credits
 All images use in this site belong to Rachel.
