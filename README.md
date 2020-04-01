@@ -66,24 +66,23 @@ The website consistes of 4 sections-Home, About, Portfolio and Contact. These ar
 
 The layout of the website was created using Bootstrap's grid system and styled by CSS.
 
-<strong>Navigation:</strong><br>
+**Navigation:**  
 Created using Bootstrap to make it responsive. This fixed Navigationis transparent and sits ontop of the hero image.
 
-<strong>Home:</strong><br>
+**Home:**  
 Landing page contains a hero image of one of the client's work.
 
-<strong>About:</strong><br>
+**About:**  
 Contains an image of the client and a brief description of who the client is and what she offers.
 
-<strong>Portfolio:</strong><br>
+**Portfolio:**  
 Created using Bootstrap grid system and lightbox gallery to display some of the clients work.
 
-<strong>Contact:</strong><br>
-Created using Bootstrap form to make it responsive with the following features-Name, Number, Email, Date of Event, Type of Event, Text area and Submit button.
+**Contact:**  
+Created using the Bootstrap form to make it responsive with the following features-Name, Number, Email, Date of Event, Type of Event and Submit button.
 
-<strong>Footer:</strong><br>
+**Footer:**  
 Contains the clients social media pages, when clicked the user is brought to the clients social media page in a new tab.
-
 
 
 # Technologies used
