@@ -11,33 +11,25 @@ Live website https://sophieh93.github.io/milestone1-project-/
 
 # UX 
 
-<strong>Target Audience </strong> - General people who have an upcoming event, people
+**Target Audience** - General people who have an upcoming event, people
 who like the clients work and would like to be a model, people who would like to advertise thier
 new business e.g new fashion brand, new music band etc.
 
+### User Goals
+* Responsive on mobile, tabley & desktop.   
+* Brief description of who the client is & her services.   
+* Gallery examples of the service.  
+* Contact form if the user wished to book a session.
+* Socia media links to if the user wished to view morew of the clients work and follow her.
+ 
+### User Story
 
-<strong> </strong>
-<strong> </strong>
-<strong> </strong>
+* As a user, I want to be able to view the website on different devices e.g phone, laptop etc.
+* As a user, I want the site to be easy to use, with limited text to read.
+* As a user, I want to be able to view the clients work clearly.
+* As a user, I expect there to be a contact form that's straight forward to use.
+* Aa a user, I expect there to be links to the clients socia media account.
 
-<strong>User Goals</strong><br>
-<ol>
-    <li>Responsive on mobile, tabley & desktop </li>
-    <li>Brief description of who the client is & her services. </li>
-    <li>Gallery examples of the service </li>
-    <li>Contact form if the user wished to book a session.</li>
-    <li>Socia media links to if the user wished
-    to view morew of the clients work and follow her. </li>
-</ol>
-
-<strong>User Story</strong><br>
-<ul>
-    <li>As a user, I want to be able to view the website on different devices e.g phone, laptop etc.</li> 
-    <li>As a user, I want the site to be easy to use, with limited text to read.</li>
-    <li>As a user, I want to be able to view the clients work clearly.</li>
-    <li>As a user, I expect there to be a contact form that's straight forward to use.</li>
-    <li>Aa a user, I expect there to be links to the clients socia media account.</li>
-</ul>
 
 
 click to view  <a href="wireframes">wireframe </a>
@@ -69,17 +61,14 @@ Contains the clients social media pages, when clicked the user is brought to the
 
 # Technologies used
 
-GitHub - Used to store repository and deploy the live website.
+* [GitHub](https://github.com/)
+* [GitPod](https://www.gitpod.io/)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+* [W3C Markup Validation](https://validator.w3.org/)
+* [WSC CSS Validaion](https://jigsaw.w3.org/css-validator/)
 
-GitPod - Coding platform.
-
-HTML & CSS - Markup language of Website & CSS used to style HTML elements
-
-Bootstrap-Framework used to build responsive websites e.g  Navigation and portfolio.
-
-W3C Markup Validation - Used to validate HTML.
-
-WSC CSS Validaion - Used to validate CSS.
 
 # Testing 
 
