@@ -4,9 +4,7 @@
     font-family:  sans-serif;
 }
 
-html { /*Adds smooth scrolling between sections*/
-     scroll-behavior: smooth;
-}
+
 
 ::-webkit-scrollbar {
   width: 15px;
