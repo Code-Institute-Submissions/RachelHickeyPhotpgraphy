@@ -7,28 +7,55 @@
 This is a static scroll website created for a freelance photographer Rachel Hickey.
 The website provides information about the photographer, examples of her work, links to her social media and a contact form.
 
-Live website https://sophieh93.github.io/milestone1-project-/ 
+Live website https://sophieh93.github.io/milestone1-project-/
 
+ 
 # UX 
 
 **Target Audience** - General people who have an upcoming event, people
 who like the clients work and would like to be a model, people who would like to advertise thier
 new business e.g new fashion brand, new music band etc.
 
-### User Goals
+## User Goals:
 * Responsive on mobile, tabley & desktop.   
 * Brief description of who the client is & her services.   
 * Gallery examples of the service.  
 * Contact form if the user wished to book a session.
 * Socia media links to if the user wished to view morew of the clients work and follow her.
  
-### User Story
+## User Story:
 
 * As a user, I want to be able to view the website on different devices e.g phone, laptop etc.
 * As a user, I want the site to be easy to use, with limited text to read.
 * As a user, I want to be able to view the clients work clearly.
 * As a user, I expect there to be a contact form that's straight forward to use.
 * Aa a user, I expect there to be links to the clients socia media account.
+
+## Design Choices
+
+**Fonts:**
+
+
+
+**Icons:**  
+I used icons from [Font Awesome](https://fontawesome.com/start) for the social media links in the footer of the website.
+
+
+**Colors:**  
+My colors compliment the protfolio images on the website. 
+
+The **primary** color of the website is #f16c6b -'Soft Red' which is used in the navigation and copyright.
+It compliments the images on the webite and makes the navigation stand out above the hero image.
+
+The **secondary** color #00BFFF - 'Deep Sky Blue' is used as the header color for the different sections on the website,
+hover over on the navigation links and for the social media icons in the footer.
+
+*List of all the color codes:*
+* #f16c6b - Soft red.
+* #00BFFF - Deep sky blue
+* Navigation transparent background -  rgba(0, 0, 0, 0.6)!important.
+* #e1e5eb - Solitude.
+* #f0f3f5 - Alice blue
 
 
 
