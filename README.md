@@ -58,8 +58,9 @@ hover over on the navigation links and for the social media icons in the footer.
 * #f0f3f5 - Alice blue
 
 
-
-click to view  <a href="wireframes">wireframe </a>
+# wireframes
+I created my wireframes on [Wireframe.cc](https://wireframe.cc/). I created basic wireframes for desktop, tablet and mobile devices.
+To view my wireframes please see my 'Wireframes' folder.
 
 # Features of the Website 
 The website consistes of 4 sections-Home, About, Portfolio and Contact. These are all fixed to the Navigation on the right side. When the user clicks on one of these tabs the website will scroll to that section.
