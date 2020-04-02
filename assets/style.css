@@ -4,7 +4,9 @@
     font-family:  sans-serif;
 }
 
-
+html {
+    scroll-behavior: smooth;
+}
 
 ::-webkit-scrollbar {
   width: 15px;
@@ -26,7 +28,7 @@ h2 {
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
-    color: #00BFFF;
+    color: rgb(1, 133, 177);
 }
 
 
@@ -79,7 +81,7 @@ margin-left: 30px;
 #about {
     padding-top: 60px;
   
-    background-color: #e1e5eb;
+    background-color: #edeff1;
 }
 
 #selfie {
