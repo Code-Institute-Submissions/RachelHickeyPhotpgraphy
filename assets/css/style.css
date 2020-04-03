@@ -1,13 +1,15 @@
-* {
-    margin: 0 ;
-    padding: 0;
-    font-family:  sans-serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
 
 html {
     scroll-behavior: smooth;
+    margin: 0 ;
+    padding: 0;
 }
 
+body {
+    font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
 ::-webkit-scrollbar {
   width: 15px;
 }
@@ -71,14 +73,10 @@ margin-left: 30px;
    
 }
 
-#main {
-    width:100%;
-   
-}
 
 .hero-image {
   background-image: url("../images/header.jpg");
-  height: 8vh;
+  height: 130vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
