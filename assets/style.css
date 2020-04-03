@@ -132,6 +132,12 @@ span {
    
 }
 
+.btn-info {
+    margin-top: 10%;
+    max-width: 25%;
+    
+}
+
 /* PORTFOLIO */
 #portfolio {
     padding-top: 60px;
@@ -188,7 +194,7 @@ label {
 .text-input {
   width: 100%; 
   border: 1px solid #f16c6b;
-display: block;
+
 } 
 
 .text-input:hover {
