@@ -13,18 +13,18 @@ body {
 
 
 ::-webkit-scrollbar {
-  width: 15px;
+  width: 1rem;
 }
  
 ::-webkit-scrollbar-thumb {
   background: linear-gradient(transparent, #f16c6b);
-  border-radius: 6px;
+  border-radius: 1.5rem;
 }
 
 
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(transparent, #00BFFF);
-  border-radius: 6px;
+  border-radius: 1.5rem;
 }
 
 
@@ -37,20 +37,20 @@ h2 {
 
  p {
    margin-top: 6rem;
-   font-size: 18px;
+   font-size: 1.25rem;
    
 }
 
 span {
     color: #f16c6b;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 3.5rem;
 }
 
 footer {
     background: rgba(0, 0, 0, 0.6);
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
     padding-bottom:5px;
 
 }
@@ -59,7 +59,7 @@ footer {
 .navbar {
 font-weight: bold;
 text-transform: uppercase;
-font-size: 16px;
+font-size: 1.5rem;
 letter-spacing: 1px;
 background: rgba(0, 0, 0, 0.6)!important; 
 
@@ -67,12 +67,10 @@ background: rgba(0, 0, 0, 0.6)!important;
 
  .navbar-brand {
 font-family:  sans-serif;
-font-size: 30px;
+font-size: 2.2rem;
 font-weight: bold;
 letter-spacing: 1px;
 color: #f16c6b!important;
-margin-left: 30px;
-
 }
 
 .nav-link {
@@ -86,7 +84,7 @@ margin-left: 30px;
 }
 .navbar .navbar-collapse {
     text-align: center;
-    margin-right: 15px;
+    margin-right: 1.5rem;
 }
 
 .navbar-nav li {
@@ -128,14 +126,14 @@ max-width: 100%;
 /* About */
 
 #about {
-    padding-top: 60px;
-    padding-bottom: 30px;
+    padding-top: 6rem;
+    padding-bottom: 3rem;
     background-color: #edeff1;
 }
 
 #selfie {
     border: 2px solid #f16c6b;
-    border-radius: 50px;
+    border-radius: 4rem;
     margin-top: 7rem;
     height: auto;
     width: 100%;
@@ -143,30 +141,30 @@ max-width: 100%;
 
 
 .btn-info {
-    margin-top: 10%;
-    max-width: 25%;
+    margin-top: 1rem;
+    max-width: 8rem;
     
 }
 
 /* PORTFOLIO */
 #portfolio {
-    padding-top: 60px;
+    padding-top: 6rem;
     background: #f0f3f5;
 }
 
 .tz-gallery {
-    padding: 10px;
+    padding: 1rem;
     margin-top: 5rem;
 }
 
 .tz-gallery img {
-    border-radius: 6px;   
+    border-radius: 5px;   
     transition: 1s;
 }
 
 .tz-gallery .lightbox img {
     width: 100%;
-    margin-bottom: 30px;
+    margin-bottom: 3rem;
     
 }
 
@@ -180,7 +178,7 @@ max-width: 100%;
 /* Contact */
 
 #contact {
-    padding: 70px;
+    padding-top: 6rem;
     background-color: #e1e5eb;   
 } 
 
@@ -234,15 +232,16 @@ label {
 
 
 .social-networks {
-    font-size: 35px;
+    font-size: 2rem;
 }
 
-.social-networks li {  /* this will line the links horizontally */
+.social-networks li {  
     display: inline;
+    
 }
 
 .social-networks i {
-    margin: 1%;
+    margin: 1rem;
     color: #00BFFF;
     
 }
@@ -253,7 +252,7 @@ label {
 
 .copyright {
     font-weight: bold;
-    font-size: 10px;
+    font-size: 1rem;
     color: #f16c6b;
 }
 
