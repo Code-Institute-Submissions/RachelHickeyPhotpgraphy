@@ -109,7 +109,8 @@ max-width: 100%;
 
 #about {
     padding-top: 60px;
-  
+      padding-bottom: 30px;
+
     background-color: #edeff1;
 }
 
