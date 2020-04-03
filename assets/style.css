@@ -109,8 +109,7 @@ max-width: 100%;
 
 #about {
     padding-top: 60px;
-      padding-bottom: 30px;
-
+    padding-bottom: 30px;
     background-color: #edeff1;
 }
 
@@ -174,8 +173,7 @@ span {
  }
 
 .contact-form {
-    background: #f5e5e5;
-    border: 1px solid #f16c6b;
+    max-width: 650px;
     padding: 15px;   
     margin: auto; 
     
@@ -190,12 +188,12 @@ label {
 .text-input {
   width: 100%; 
   border: 1px solid #f16c6b;
-      
+display: block;
 } 
 
 .text-input:hover {
   border-color: #00BFFF;
-  
+ box-shadow: 2px 2px #00BFFF;
 }
 
 .btn {
