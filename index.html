@@ -52,14 +52,15 @@
 
 
 <!--About-->
-  <section id="about">
-     <div class="container ">  
-        <h2>About me</h2>
-            <div class="row">
-                <div class="col-sm-6">
+  <section id="about container">
+    <div class="row">
+         <div class="col">
+            <h2>About me</h2>                
+           
                     <img class="img-fluid" src="assets/images/selfie1.jpg" id="selfie" alt="imgofrachel">
                  </div>
-                 <div class="col-sm-6 about_me">                     
+    
+                     <div class="col about_me">                     
                      <p><span>Hello,</span><br><br> My name is Rachel and I am freelance photographer based in Dublin.<br><br>
                      Photography has been a passion of mine for several years now. When I'm not working in Milano's
                      I am out with my camera taking pictures or at home editing my work and learing new software.
@@ -79,8 +80,9 @@
 </section>
 
 <!--Gallery-->
-    <section id="portfolio">
-        <div class="container-fluid gallery-container">
+    <section id="portfolio ">
+            <div class="container-fluid gallery-container">
+
             <h2>Portfolio</h2>
                 <div class="tz-gallery">
                   <div class="row">
@@ -141,33 +143,30 @@
             <div class="row">
                 <div class="col-12">
                     <h2>Contact Me</h2>
-                        <form method="POST" id="form" class="contact-form" name="myForm">                        
+                        <form method="GET" id="form" class="contact-form" name="myForm">                        
                                                     
                             <div class="form-row">
                                 <div class="form-group col-sm-6">
-                                <label for="fname">Name:</label>
-                                <input type="text" id="fname" class=" form-control text-input">
+                                    <input type="text" id="fname" placeholder="Full Name" class="form-control text-input" aria-label="name" required>
                                 </div>
                                 <div class="form-group col-sm-6">
-                                <label for="phone">Number:</label>
-                                <input type="tel" id="phone" class="text-input" name="phone"  required>
+                                    <input type="tel" id="phone" placeholder="Phone Number" class="form-control text-input" name="phone" aria-label="number" required>
                                 </div>
                             </div>
                             
                             <div class="form-group">
-                                <label for="email">Email:</label>
-                                <input type="email" id="email" name="email_address" class="text-input" required>
+                                <input type="email" id="email" placeholder="Email" name="email_address" class="form-control text-input" aria-label="email" required>
                             </div>
                             
                             <div class="form-row">
                             <div class="form-group col-sm-6">
                                 <label for="edate">Event Date:</label>
-                                <input type="date" id="edate" name="event_date" class="text-input" >
+                                <input type="date" id="edate" name="event_date" class="form-control text-input" aria-label="email">
                             </div>
                                                     
                             <div class="form-group  col-sm-6">
                                 <label for="etype">Event Type:</label> <br>
-                                <select id="etype" class=" text-input">	
+                                <select id="etype" class="form-control text-input" aria-label="email">	
                                 <option value=" "></option>
                                 <option value="1">Portrait </option>
                                 <option value="2">Modeling</option>
@@ -180,8 +179,7 @@
                             </div>
                             </div> 
 
-                            <label for="message" >Message:</label>
-                            <textarea class="text-input" id="message" name="message" placeholder="Comment" rows="5"></textarea>
+                              <textarea class="form-control text-input" id="message" name="message" placeholder="Message" rows="5"></textarea>
                             
                          <button type="submit" class="btn">Submit</button>
                            
@@ -194,10 +192,10 @@
  <footer>
     <div class="container-fluid footer-container">
         <ul class="social-networks">
-        <li><a href="https://www.instagram.com/iamrachelhickey/" title="Instagram" target="_blank"> 
+        <li><a href="https://www.instagram.com/iamrachelhickey/"  rel="noopener" target="_blank"> 
             <i class="fab fa-instagram"></i></a></li>
             
-        <li><a href="https://www.facebook.com/rachelhickey1995" target="_blank"> 
+        <li><a href="https://www.facebook.com/rachelhickey1995" rel="noopener" target="_blank"> 
             <i class="fab fa-facebook-square"></i></a></li>
         </ul>
     </div>  

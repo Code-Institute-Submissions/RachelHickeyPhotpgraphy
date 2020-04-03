@@ -34,7 +34,7 @@ h1 {
 }
 
 h2 {
-    text-align: center;
+    text-align: center!important;
     font-weight: bold;
     text-decoration: underline;
     color: rgb(1, 133, 177);
@@ -100,7 +100,7 @@ color: #f16c6b!important;
 
 .hero-image {
   background-image: url("../images/header.jpg");
-  height: 130vh;
+  height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
