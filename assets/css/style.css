@@ -77,8 +77,8 @@ margin-left: 30px;
 }
 
 .hero-image {
-  background-image: ("/assets/images/header.jpg");
-  height: 80%;
+  background-image: url("../images/header.jpg");
+  height: 8vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
