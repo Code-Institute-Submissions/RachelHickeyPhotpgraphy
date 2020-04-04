@@ -146,7 +146,9 @@ color: #f16c6b!important;
     margin-top: 5rem;
     border: 2px solid #f16c6b;
     border-radius: 4rem;
-    margin-left: 3rem
+    margin-left: 3rem;
+   max-width: 100%;
+  height: auto;
 }
 
 
@@ -301,17 +303,26 @@ label {
 /* IPad only */
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
     .navbar-brand {
-        margin-left: 0;
-        font-size: 5px;
+       font-size: 2rem!important;
+        
     }
-
-    #selfie {
-        border-radius: 50%;
-        margin-top: 50%;
-       
+    .nav-link {
+        font-size: 1.5rem;        
     }
     
-        
+    .form-group  select {
+        font-size: 3rem;
+        margin-top: 5rem;
+    }
+
+    .btn-info {
+     width: 100%;
+    }
+
+    #submit {
+        font-size: 3rem;
+    }
+            
 }
 
 /* IPad landscape */
@@ -394,73 +405,5 @@ label {
 
     .copyright {
     font-size: 25px;
-    }
-}
-
-/* Large Devices, Wide Screens */
-@media only screen and (max-width : 1200px) {
-
-}
-
-/* Medium Devices, Desktops */
-@media only screen and (max-width : 992px) {
-
-}
-/*
-
-/*desktop 
-@media screen and (max-width: 768px) { 
-    li a {
-        font-size: 20px;
-        
-    }    
-
-     h2 {
-       font-size: 40px;  
-     }
-
-      p {
-       font-size: 25px;   
-       
-     }
-
-     #selfie {
-         margin-top: 20%;
-         width: 100%;
-         height: auto;
-                 
-     }
-}
- /* 
-
-
- /*phones
-@media screen and (max-width: 600px) { 
-    .navbar-brand {
-        font-size: 20px;
-        padding-left: 0;
-        margin-left: 0;
-    }
-
-}
-/*IPAD Landscape 
-@media screen and (max-width: 1024px) {
-    .navbar-brand {
-        margin-left: 0;
-       color: purple;
-    }
-
-}
-
-@media only screen and (min-width: 768px) {
-    .nav-link {
-        font-size: 15px;
-        color: green;
-    }
-
-    .navbar-brand {
-        font-size: 20px;
-        margin-left: 0;
-        color: green;
     }
 }
