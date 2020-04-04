@@ -193,6 +193,7 @@ color: #f16c6b!important;
 
 #contact {
     padding-top: 6rem;
+    padding-bottom: 3rem;
     background-color: #e1e5eb;   
 } 
 
@@ -216,7 +217,17 @@ color: #f16c6b!important;
 
 .text-input:hover {
 border-color: #00BFFF;
-box-shadow: 2px 2px #00BFFF;
+}
+
+label {
+  font-size: 1.5rem;
+  font-weight: 600;  
+}
+
+.form-group  select {
+  margin-top: 2.7rem;
+  font-size: 1.5rem;
+  border: 1px solid #f16c6b;
 }
 
 #submit {
@@ -226,10 +237,11 @@ box-shadow: 2px 2px #00BFFF;
   text-align: center;
   background-color: #f16c6b;
   color: #fafafa;
-  font-weight: bold;
+  font-size: 1.5rem;
+  font-weight: 700;
 }
 
-.btn:hover {
+#submit:hover {
   background-color: #ee9797;
   color: rgba(65, 63, 63);
   font-weight: bold;
