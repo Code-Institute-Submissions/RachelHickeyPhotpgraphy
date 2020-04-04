@@ -147,8 +147,8 @@ color: #f16c6b!important;
     border: 2px solid #f16c6b;
     border-radius: 4rem;
     margin-left: 3rem;
-   max-width: 100%;
-  height: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 
@@ -322,22 +322,27 @@ label {
     #submit {
         font-size: 3rem;
     }
+
+    #selfie {
+        display: inline-block;
+    }
             
 }
 
 /* IPad landscape */
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation : landscape) {
     .navbar-brand {
-        font-size: 25px;
+        font-size: 2.5rem!important;
     }
 
     li a {
-       font-size: 18px;
+       font-size: 2rem!important;
     }
     
     #selfie {
-        margin-top: 7rem;
-       margin-bottom: 2%;
+    margin-top: 7rem;
+    margin-bottom: 2%;
+    
     }
 
     label {
@@ -351,20 +356,24 @@ label {
      }
 
     .social-networks li a {
-    font-size: 40px;
+        font-size: 5rem!important;
     }
 
     .copyright {
-        font-size: 20px;
+        font-size: 1.5rem;
     }
 }
 
 /* large devices */
 @media only screen and (max-width : 1024px) {
 
-    h2 {
-       font-size: 50px;
+    h1 {
+       font-size: 5.5rem!important;
+            
+    }
 
+    .btn-primary {
+        width: 50%;
     }
 
     span {
@@ -372,16 +381,15 @@ label {
 
     }
     .navbar-brand {
-        font-size: 26px;
+        font-size: 3rem!important;
     }
 
     li a {
-       font-size: 20px;
+       font-size: 2rem!important;
     }
 
        #selfie { 
-        margin-top: 60%;
-        border-radius: 20%;
+        display: inline-block;
     }
 
     p {
@@ -400,7 +408,7 @@ label {
      }
 
     .social-networks li a {
-    font-size: 40px;
+    font-size: 4rem!important;
     }
 
     .copyright {
