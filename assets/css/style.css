@@ -59,9 +59,9 @@ footer {
 
 /* navbar */
 .navbar {
-font-weight: bold;
+font-weight: 755;
 text-transform: uppercase;
-font-size: 1.5rem;
+font-size: 2.2rem;
 letter-spacing: 1px;
 background: rgba(0, 0, 0, 0.6)!important; 
 
@@ -69,9 +69,8 @@ background: rgba(0, 0, 0, 0.6)!important;
 
  .navbar-brand {
 font-family:  sans-serif;
-font-size: 2.2rem;
-font-weight: bold;
-letter-spacing: 1px;
+font-size: 2.8rem;
+font-weight: 760;
 color: #f16c6b!important;
 }
 
@@ -124,7 +123,6 @@ color: #f16c6b!important;
     margin: 1.5rem;
     font-weight: 800;
     background-color: #f16c6b;
-
    
 }
 
