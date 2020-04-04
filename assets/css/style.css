@@ -3,13 +3,13 @@
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
-    margin: 0 ;
-    padding: 0;
+    
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
+    
 }
 
 
@@ -224,6 +224,7 @@ label {
 }
 
 .form-group  select {
+
   margin-top: 2.7rem;
   font-size: 1.5rem;
   border: 1px solid #f16c6b;
@@ -277,24 +278,39 @@ label {
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 480px) {
     
-    .navbar-brand { /* Changing the font size allows the nav links to align in the center */ 
-        font-size: 15px;
-    }
+ .hero-text {
+    top: 65%;
+    
+ }
 
-       
+ #selfie {
+ margin-left: 0;
+
+ }
+
+ .btn-info {
+     width: 100%;
+ }
+
+ .form-group  select {
+    font-size: 3rem;
+ }
+      
 }
 
 /* IPad only */
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
     .navbar-brand {
         margin-left: 0;
-        font-size: 15px;
+        font-size: 5px;
     }
 
     #selfie {
         border-radius: 50%;
         margin-top: 50%;
+       
     }
+    
         
 }
 
