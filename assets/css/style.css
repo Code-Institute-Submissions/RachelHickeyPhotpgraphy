@@ -197,31 +197,26 @@ color: #f16c6b!important;
 } 
 
  #form {
-     margin-top: 5%;
+     margin-top: 1rem;
  }
 
 .contact-form {
     max-width: 650px;
-    padding: 15px;   
+    padding: 1rem; 
     margin: auto; 
-    
-}
-
-label {
-   color: rgb(65, 63, 63);
-   font-weight: bold;
-   padding: 2px;
+       
 }
 
 .text-input {
   width: 100%; 
   border: 1px solid #f16c6b;
-
+  padding: 1.5rem;
+  font-size: 1.5rem;
 } 
 
 .text-input:hover {
 border-color: #00BFFF;
- box-shadow: 2px 2px #00BFFF;
+box-shadow: 2px 2px #00BFFF;
 }
 
 #submit {
