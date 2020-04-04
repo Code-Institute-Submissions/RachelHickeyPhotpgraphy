@@ -29,24 +29,24 @@ body {
 }
 
 
-
 h2 {
-    text-align: center!important;
-    font-weight: bold;
-    text-decoration: underline;
-    color: rgb(1, 133, 177);
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 700;
+    color: #00BFFF;
 }
 
- p {
-   margin-top: 6rem;
-   font-size: 1.25rem;
-   
+p {
+   margin-top: 7rem;
+   font-size: 1.7rem;
+   margin-right: 3rem;
+   font-weight: 550;
 }
 
 span {
     color: #f16c6b;
-    font-weight: bold;
-    font-size: 3.5rem;
+    font-weight: 900;
+    font-size: 5rem;
 }
 
 footer {
@@ -117,6 +117,7 @@ color: #f16c6b!important;
 }
 
 
+
 .btn-primary {
     color: #000;
     font-size: 1.6em;
@@ -128,27 +129,36 @@ color: #f16c6b!important;
 
 
 /* About */
-
 #about {
     padding-top: 6rem;
     padding-bottom: 3rem;
     background-color: #edeff1;
 }
 
+.h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 700;
+    color: #00BFFF;
+} 
+
+
 #selfie {
+    margin-top: 5rem;
     border: 2px solid #f16c6b;
     border-radius: 4rem;
-    margin-top: 7rem;
-    height: auto;
-    width: 100%;
+    margin-left: 3rem
 }
 
 
 .btn-info {
-    margin-top: 1rem;
-    max-width: 8rem;
-    
-}
+    margin-top: 3rem;
+    width: 30%;
+    font-size: 1.5rem;
+    font-weight: 700;
+    background-color: #f16c6b;
+} 
+
 
 /* PORTFOLIO */
 #portfolio {
