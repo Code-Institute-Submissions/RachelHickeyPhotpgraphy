@@ -63,24 +63,25 @@ The **secondary** color **#00BFFF** - *Deep Sky Blue* is used as the header 2 -*
 
 # Wireframes
 I created my wireframes on [Wireframe.cc](https://wireframe.cc/). I created basic wireframes for desktop, tablet and mobile devices.
-To view my wireframes please see my 'Wireframes' folder.
+To view my wireframes please see my **Wireframes**+3
+. folder.
 
 # Features of the Website 
-The website consistes of 4 sections-Home, About, Portfolio and Contact. These are all fixed to the Navigation on the right side. When the user clicks on one of these tabs the website will scroll to that section.
+The website consistes of 4 sections-Home, About, Portfolio and Contact. When the user clicks on one of these tabs the website will scroll to that section.
 
 The layout of the website was created using Bootstrap's grid system and styled by CSS.
 
 **Navigation:**  
-Created using Bootstrap to make it responsive. This fixed Navigationis transparent and sits ontop of the hero image.
+Created using [Bootstrap](https://getbootstrap.com/docs/4.3/components/navs/) to make it responsive. This fixed, transparent navigation sits above the hero image.
 
 **Home:**  
-Landing page contains a hero image of one of the client's work.
+Landing page contains a fixed hero image of one of the client's work with two call to action buttons.
 
 **About:**  
-Contains an image of the client and a brief description of who the client is and what she offers.
+Contains an image of the client and a brief description of who the client is and what she offers. It also containes a link to the clients **Instagram** and a link to the **Contact** section of the website.
 
 **Portfolio:**  
-Created using Bootstrap grid system and lightbox gallery to display some of the clients work.
+Created using Bootstrap grid system, Javascripts baguetteBox and lightbox gallery to display some of the clients work.
 
 **Contact:**  
 Created using the Bootstrap form to make it responsive with the following features-Name, Number, Email, Date of Event, Type of Event and Submit button.
