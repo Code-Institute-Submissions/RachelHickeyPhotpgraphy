@@ -92,15 +92,15 @@ color: #f16c6b!important;
    
 }
 
+/* Hero section */
 
 .hero-image {
   background: url("../images/header.jpg") no-repeat fixed;
   height: 100vh;
   background-position: center center;
   background-size: cover; 
-  
+  position: relative;
 }
-
 
 
 .hero-text {
@@ -137,24 +137,18 @@ color: #f16c6b!important;
     background-color: #edeff1;
 }
 
-.h2 {
-    text-align: center;
-    font-size: 4rem;
-    font-weight: 700;
-    color: #0044ff;
-} 
-
 
 #selfie {
-    margin-top: 5rem;
     border: 2px solid #f16c6b;
     border-radius: 4rem;
-    margin-left: 3rem;
     max-width: 100%;
     height: auto;
 }
 
-
+p {
+   font-size: 1.7rem;
+   font-weight: 550;
+}
 .btn-info {
     margin-top: 3rem;
     width: 30%;
