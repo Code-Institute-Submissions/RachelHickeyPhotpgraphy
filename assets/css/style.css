@@ -34,12 +34,12 @@ h2 {
     font-size: 4rem;
     font-weight: 700;
     color: #0044ff;
+    padding-bottom: 3rem;
 }
 
 p {
-   margin-top: 7rem;
+  
    font-size: 1.7rem;
-   margin-right: 3rem;
    font-weight: 550;
 }
 
@@ -145,10 +145,6 @@ color: #f16c6b!important;
     height: auto;
 }
 
-p {
-   font-size: 1.7rem;
-   font-weight: 550;
-}
 .btn-info {
     margin-top: 3rem;
     width: 30%;
@@ -209,7 +205,7 @@ p {
 .text-input {
   width: 100%; 
   border: 1px solid #f16c6b;
-  padding: 1.5rem;
+  padding: 2rem;
   font-size: 1.5rem;
 } 
 
@@ -225,7 +221,7 @@ label {
 .form-group  select {
 
   margin-top: 2.7rem;
-  font-size: 1.5rem;
+  font-size: 2rem;
   border: 1px solid #f16c6b;
 }
 
@@ -299,15 +295,16 @@ label {
 
 /* IPad only */
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
-    .navbar-brand {
-       font-size: 2rem!important;
+
+   .navbar-brand {
+       font-size: 50px;
         
     }
     .nav-link {
         font-size: 1.5rem;        
     }
     
-    .form-group  select {
+   /*  .form-group  select {
         font-size: 3rem;
         margin-top: 5rem;
     }
@@ -322,42 +319,34 @@ label {
 
     #selfie {
         display: inline-block;
-    }
+    } */
             
 }
 
 /* IPad landscape */
-@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation : landscape) {
-    .navbar-brand {
-        font-size: 2.5rem!important;
-    }
-
-    li a {
-       font-size: 2rem!important;
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    .hero-text {
+        top: 60%;
     }
     
     #selfie {
-    margin-top: 7rem;
-    margin-bottom: 2%;
+        margin-top: 22rem;
+        border-radius: 9.6rem;
+        
+    }
     
+
+    .btn-info {
+        width: 100%;
     }
 
-    label {
-        font-size: 25px;
+    .form-group  select {
+        font-size: 3rem;
+        margin-top: 5rem;
     }
 
-     .text-input, .btn {
-         padding: 6px;
-         font-size: 25px;
-
-     }
-
-    .social-networks li a {
-        font-size: 5rem!important;
-    }
-
-    .copyright {
-        font-size: 1.5rem;
+    #submit {
+     font-size: 3rem;
     }
 }
 
