@@ -105,21 +105,29 @@ Contains the clients social media pages, when clicked the user is brought to the
 * [Baguette Box](https://www.javascripting.com/view/baguettebox-js)
 
 # Testing 
+For thid project I mainly used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+to test the styling and layout and responsiveness of the website on the different devices-Mobile, Tablet and Desktop.
 
-W3C Markup Validaion - Used to validate HTML & CSS code. <br>
+[W3C Markup Validaion](https://validator.w3.org/) was used to validate my HTML & CSS code. <br>
 
-Google Chrome developer - Used to check that my website was responsive on all devices.
+### **Navigation:**  
+I tested that the navigation links worked and brought the user to the correct section of the website.
+I added Media Queries to ensure the navigation would display properly on all devices. For smaller devices 
+the navigation would be replaced with a drop-down menue.
 
-<strong>Contact Form</strong>:
-If the user clicks 'submit' without submitting any data an error message should appear that hightligts the required field to be filled.
+### **Contact Form:**  
+If the user does not fill in their **number** an error message will appear.
 
-If the user does not fill in a valid email address, an error message will appear.
+If the user does not fill in their **number** an error message will appear.
 
-If the user does not fill in the 'Name' or 'Event Type', an error message will appear.
+If the user does not fill in a valid **email** address, an error message will appear advising the user to include an *@*.
 
-<strong>Footer:</strong><br>
-Ensured that when the user clicks on the social media link that the link works and will open the social media
-page in a new tab to the clients account.
+If the user clicks **submit** without submitting any data, an error message should appear that hightligts the required fields to be filled out.
+
+I added this form validation by including the html5 attribute **required**.
+### **Footer:**  
+If the user clicks on the social media link, it will open the clients social media account in a new tab.
+
 
 
 # Bugs
