@@ -34,17 +34,18 @@ new business e.g new fashion brand, new music band etc.
 ## Design Choices
 
 **Fonts:**
-
+I went with [Open Sans](https://fonts.google.com/specimen/Open+Sans) as suggested by my mentor.
 
 
 **Icons:**  
-I used icons from [Font Awesome](https://fontawesome.com/start) for the social media links in the footer of the website.
+I used icons from [Font Awesome](https://fontawesome.com/start) to display the **camera** on the navigation brand, the social media links -**Facebook** and **Instagram** in the footer of the website and I used the **bars** to display the 'burger button' on mobile devises.
 
 
 **Colors:**  
 My colors compliment the protfolio images on the website. 
 
-The **primary** color of the website is #f16c6b -'Soft Red' which is used in the navigation and copyright.
+The **primary** color of the website is #f16c6b -**Soft Red** which is used in the navigation for the links and brand, the background color for the buttons, the **selfie** border color,
+the **input** section on the contact form and for **copyright**.
 It compliments the images on the webite and makes the navigation stand out above the hero image.
 
 The **secondary** color #00BFFF - 'Deep Sky Blue' is used as the header color for the different sections on the website,
