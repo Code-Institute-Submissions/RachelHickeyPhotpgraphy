@@ -44,19 +44,21 @@ I used icons from [Font Awesome](https://fontawesome.com/start) to display the *
 **Colors:**  
 My colors compliment the protfolio images on the website. 
 
-The **primary** color of the website is #f16c6b -**Soft Red** which is used in the navigation for the links and brand, the background color for the buttons, the **selfie** border color,
-the **input** section on the contact form and for **copyright**.
+The **primary** color of the website is **#f16c6b** -*Soft Red* which is used in the navigation for the **links** and **brand**, the background color for the **buttons**, the **selfie** border color,
+the **input** section on the contact form and for the **copyright**.  
 It compliments the images on the webite and makes the navigation stand out above the hero image.
 
-The **secondary** color #00BFFF - 'Deep Sky Blue' is used as the header color for the different sections on the website,
-hover over on the navigation links and for the social media icons in the footer.
+The **secondary** color **#00BFFF** - *Deep Sky Blue* is used as the header 2 -**h2** color for the different sections of the website, the **hover effect** on the navigation links, text-inout on the form and for the social media icons in the footer.
 
 *List of all the color codes:*
 * #f16c6b - Soft red.
 * #00BFFF - Deep sky blue
 * Navigation transparent background -  rgba(0, 0, 0, 0.6)!important.
-* #e1e5eb - Solitude.
-* #f0f3f5 - Alice blue
+* #0044ff - Navey blue - h2.
+* #edeff1 - Solitude - About & Contact background.
+* #fafafa - Snow - Submit font color.
+* #ee9797 - Sea Pink - Sumbit & social media links background hover.
+
 
 
 # Wireframes
