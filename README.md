@@ -173,4 +173,4 @@ I deployed the websit using GitHub's pages. The steps are as follows:
 
 
 # Credits
-All images use in this site belong to client Rachel Hickey.
+All images used in this site were provided by my client Rachel Hickey.
