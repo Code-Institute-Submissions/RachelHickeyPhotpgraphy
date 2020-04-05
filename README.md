@@ -159,14 +159,18 @@ During this project the main bugs I in encountered was with the navigation. See 
 
 
 # Deployment
-I deployed the websit using GitHub's pages. The steps are as follows:   
-1. Open my project repository on GitHub.
-2. On the top right select **settings**.
-3. Scroll down to **GitHub Pages**.
-4. From the **source** dropdown menu click on **Master Branch**.
-5. Website now live.
 
+I deployed the websit using GitHub's pages. The steps are as follows:   
+
+1. Open **GitHub** in the browser.
+2. Sign into my account.
+3. Select my **repositories**.
+4. Navigate to *RachelHickeyPhotpgraphy*.
+2. On the top right select **settings**.
+3. Scroll down to the **GitHub Pages** area.
+4. From the **Source** dropdown menu click on **Master Branch**.
+5. Your site is published at https://sophieh93.github.io/RachelHickeyPhotpgraphy/
 
 
 # Credits
-All images use in this site belong to Rachel.
+All images use in this site belong to client Rachel Hickey.
