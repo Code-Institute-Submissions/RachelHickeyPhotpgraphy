@@ -33,7 +33,7 @@ new business e.g new fashion brand, new music band etc.
 
 ## Design Choices
 
-**Fonts:**
+**Fonts:**  
 I went with [Open Sans](https://fonts.google.com/specimen/Open+Sans) as suggested by my mentor.
 
 
@@ -125,17 +125,36 @@ If the user does not fill in a valid **email** address, an error message will ap
 If the user clicks **submit** without submitting any data, an error message should appear that hightligts the required fields to be filled out.
 
 I added this form validation by including the html5 attribute **required**.
+
 ### **Footer:**  
 If the user clicks on the social media link, it will open the clients social media account in a new tab.
 
 
 
 # Bugs
-1. **Bug** - Getting the font color/background color for the navigation so it was visible above the hero image. Most font colors faded into the hero image.
-* **Fix** - color code #f16c6b and #00BFFF works best for the navigation with a transparent backgrounf.
+During this project the main bugs I in encountered was with the navigation. See below for a detailed explanation.
+### **Navigation Bugs:**
+1. **Bug 1-Background Color-**   
+     *  As I wanted to have the navigation bar to be fixed on top of the **hero** image the first bug I encountered
+     was finding a background color for the Navigation that also complimented the hero image. I did not like the solid background colors as I felt that
+     this was too harsh on the hero image.   
 
-2. **Bug**-The navigation toggle button was too large on phones and small devices-It covered too much of the hero image.  
-* **Fix**-Added the Font Awesome 'bars' icon.
+    **The Fix:**
+    * I decieded to use a transparent background using rgba(0, 0, 0, 0.6) code. This does not cover anyof the hero image.       
+
+2. **Bug 2-Font Color-**   
+     * As I decided to go with the transparent background for the navigation this then caused difficulty finding the color
+     to use for the navigation links. The traditional colors such as black and white blended into the hero image so these were not suitable.  
+    As most of the images on the website consists of the colours pink, green, blue and purple I started playing with these colors for the navigation links on [color picker](https://htmlcolorcodes.com/color-picker/).
+
+    **The Fix:**
+    * I settled for the colors **#f16c6b** for the nav links and nav brand and the color **#00BFFF** for the hover effect as I felt these stood out onto of the hero image best.
+
+3. **Bug 2-Toggle Bar -**   
+     * The navigation toggle button was too large on phones and small devices as it covered too much of the hero image.  
+
+    **The Fix:**
+    * I replaced the toggle icon with the [Font Awesome](https://fontawesome.com/icons?d=gallery&q=bar) *bars* icon.
 
 
 
