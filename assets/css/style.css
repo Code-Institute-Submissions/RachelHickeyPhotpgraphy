@@ -94,11 +94,14 @@ color: #f16c6b!important;
 
 
 .hero-image {
-  background: url("../images/header.jpg") no-repeat center center fixed;
+  background: url("../images/header.jpg") no-repeat fixed;
   height: 100vh;
-  position: relative;
+  background-position: center center;
   background-size: cover; 
+  
 }
+
+
 
 .hero-text {
    text-align: center;
@@ -111,7 +114,7 @@ color: #f16c6b!important;
 .hero-text h1 {
     font-size: 5rem;
     font-weight: 750;
-    color: rgb(0, 68, 255);
+    color: #0044ff;
     text-shadow: 1px 1px 1rem #000;
 }
 
@@ -123,7 +126,7 @@ color: #f16c6b!important;
     margin: 1.5rem;
     font-weight: 800;
     background-color: #f16c6b;
-   
+  
 }
 
 
