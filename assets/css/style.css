@@ -40,7 +40,7 @@ h2 {
 p {
   
    font-size: 1.7rem;
-   font-weight: 550;
+   font-weight: 500;
 }
 
 span {
@@ -58,7 +58,7 @@ footer {
 
 /* navbar */
 .navbar {
-font-weight: 755;
+font-weight: 700;
 text-transform: uppercase;
 font-size: 2.2rem;
 letter-spacing: 1px;
@@ -69,7 +69,7 @@ background: rgba(0, 0, 0, 0.6)!important;
  .navbar-brand {
 font-family:  sans-serif;
 font-size: 2.8rem;
-font-weight: 760;
+font-weight: 700;
 color: #f16c6b!important;
 }
 
@@ -113,7 +113,7 @@ color: #f16c6b!important;
 
 .hero-text h1 {
     font-size: 5rem;
-    font-weight: 750;
+    font-weight: 700;
     color: #0044ff;
     text-shadow: 1px 1px 1rem #000;
 }
