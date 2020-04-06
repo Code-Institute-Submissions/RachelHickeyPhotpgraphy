@@ -1,11 +1,6 @@
 # IAmRachelHickey
 
-<<<<<<< HEAD
-![](../images/Capture.JPG)
-=======
 ![](assets/images/Capture.JPG)
-
->>>>>>> b3b658915338243515dd7fe74fecb0414ffff1b1
 
 
 This is a static scroll website created for a freelance photographer Rachel Hickey.
@@ -133,9 +128,16 @@ I added this form validation by including the html5 attribute **required**.
 ### **Footer:**  
 If the user clicks on the social media link, it will open the clients social media account in a new tab.
 
+<<<<<<< HEAD
 I used the lighthouse testing to test the performance on mobile and desktops.  
 **Mobile & Desktop**-same result:   
  
+=======
+I used the lighthouse testing to test the performance on mobile and desktops.
+Mobile:
+![](assets/images/lighthouse-mb.JPG)
+
+>>>>>>> 2a501e03cd0326283d07667e67692a040499392b
 
 # Bugs
 During this project the main bugs I in encountered was with the navigation. See below for a detailed explanation.
