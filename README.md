@@ -1,11 +1,6 @@
 # IAmRachelHickey
 
-<<<<<<< HEAD
-![](../images/Capture.JPG)
-=======
 ![](assets/images/Capture.JPG)
-
->>>>>>> b3b658915338243515dd7fe74fecb0414ffff1b1
 
 
 This is a static scroll website created for a freelance photographer Rachel Hickey.
@@ -135,7 +130,8 @@ If the user clicks on the social media link, it will open the clients social med
 
 I used the lighthouse testing to test the performance on mobile and desktops.
 Mobile:
- 
+![](assets/images/lighthouse-mb.JPG)
+
 
 # Bugs
 During this project the main bugs I in encountered was with the navigation. See below for a detailed explanation.
