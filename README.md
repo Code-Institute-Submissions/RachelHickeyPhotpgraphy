@@ -133,8 +133,8 @@ I added this form validation by including the html5 attribute **required**.
 ### **Footer:**  
 If the user clicks on the social media link, it will open the clients social media account in a new tab.
 
-I used the lighthouse testing to test the performance on mobile and desktops.
-Mobile:
+I used the lighthouse testing to test the performance on mobile and desktops.  
+**Mobile & Desktop**-same result:   
  
 
 # Bugs
