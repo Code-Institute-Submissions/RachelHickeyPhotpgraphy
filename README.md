@@ -1,6 +1,6 @@
 # IAmRachelHickey
 
-![](images/Capture.JPG)
+![](assets/images/Capture.JPG)
 
 
 
