@@ -94,7 +94,36 @@ color: #f16c6b!important;
 
 /* Hero section */
 
-.hero-image {
+.main {
+    position: relative;
+    background: url("../images/header.jpg") fixed;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+h1 {
+    
+    color: #0044ff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 5rem;
+    letter-spacing: .2rem;
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    top: 600%;
+    text-shadow: 1px 1px 1rem #000;
+}
+
+ .btn-primary {
+    background-color: red;
+    top: 600%;
+}
+
+
+/*.hero-image {
   background: url("../images/header.jpg") no-repeat fixed;
   height: 100vh;
   background-position: center center;
@@ -128,7 +157,7 @@ color: #f16c6b!important;
     background-color: #f16c6b;
   
 }
-
+*/
 
 /* About */
 #about {
