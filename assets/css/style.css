@@ -117,9 +117,9 @@ h1 {
     text-shadow: 1px 1px 1rem #000;
 }
 
- .btn-primary {
-    background-color: red;
-    top: 600%;
+  .btn-primary {
+    background-color: green;
+    
 }
 
 
