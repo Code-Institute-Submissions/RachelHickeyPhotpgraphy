@@ -170,7 +170,7 @@ During this project the main bugs I in encountered was with the navigation. See 
 
 # Deployment
 
-I deployed the websit using GitHub's pages. The steps are as follows:   
+I deployed the websit using **GitHub's pages**. The steps are as follows:   
 
 1. Open **GitHub** in the browser.
 2. Sign into my account.
@@ -181,6 +181,20 @@ I deployed the websit using GitHub's pages. The steps are as follows:
 4. From the **Source** dropdown menu click on **Master Branch**.
 5. Your site is published at https://sophieh93.github.io/RachelHickeyPhotpgraphy/
 
+### Running the website Locally:
+To clone **Rachel Hickey Photography** from GitHub:
+
+1. Navigate to **SophieH93/RachelHickeyPhotpgraphy**.
+2. Click the green **Clone or Download** button.
+3. **Copy** the **url** in the dropdown box.
+4. Using your favourite **IDE** open up your preferred **terminal**.
+5. **Navigate** to your desired file location.
+6. **Copy** the following code and **input** it into your terminal to clone Rachel Hickey Photography.
+
 
 # Credits
-All images used in this site were provided by my client Rachel Hickey.
+* All images used in this site were provided by my client **Rachel Hickey**.  
+* The Gallery was created follow [webseotips](https://www.youtube.com/watch?v=k-RtYiiB47E&amp=&t=151s) Youtube video.
+* **Simen Daehlin** my mentor.
+
+**This websit os for educational purposes only.**
