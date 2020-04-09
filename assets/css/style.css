@@ -92,9 +92,9 @@ color: #f16c6b!important;
    
 }
 
-/* Hero section */
+/* Main section */
 
-.main {
+#main {
     position: relative;
     background: url("../images/header.jpg") fixed;
     min-height: 100vh;
@@ -103,61 +103,51 @@ color: #f16c6b!important;
     
 }
 
-h1 {
-    
-    color: #0044ff;
-    text-transform: uppercase;
-    font-weight: 700;
-    font-size: 5rem;
-    letter-spacing: .2rem;
+#heading {
     position: absolute;
-    width: 100%;
-    left: 50%;
-    top: 600%;
-    text-shadow: 1px 1px 1rem #000;
-}
-
-  .btn-primary {
-    background-color: green;
-    
-}
-
-
-/*.hero-image {
-  background: url("../images/header.jpg") no-repeat fixed;
-  height: 100vh;
-  background-position: center center;
-  background-size: cover; 
-  position: relative;
-}
-
-
-.hero-text {
-   text-align: center;
     top: 50%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50%, -50%);
-}
-
-.hero-text h1 {
-    font-size: 5rem;
+    left: 50%;    
+    text-align: center;
+    font-size: 4rem;
     font-weight: 700;
-    color: #0044ff;
-    text-shadow: 1px 1px 1rem #000;
+    letter-spacing: .2rem;   
+    color: #81D4FA;
+    padding: 13px 25px;
+    border-radius: 15px;
+    background: rgba(33, 33, 33, 0.7);
+    transform: translate(-50%, -50%);
+    
 }
 
-
-
-.btn-primary {
+ .btn-primary  {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    width: 15%;
     color: #000;
-    font-size: 1.6em;
-    margin: 1.5rem;
-    font-weight: 800;
+    font-size: 1.8em;    
+    font-weight: 900;
     background-color: #f16c6b;
-  
+    
 }
-*/
+
+.btn-secondary {
+    position: absolute;
+    top: 60%;
+    left: 34%;
+    width: 15%;
+    color: #000;
+    font-size: 1.8em;    
+    font-weight: 900;
+    background-color: #f16c6b;
+}
+
+.btn-secondary:hover  {
+    background: #1976D2;
+}
+
+
+
 
 /* About */
 #about {
@@ -427,4 +417,5 @@ label {
 
     .copyright {
     font-size: 3rem;
+}
 }
