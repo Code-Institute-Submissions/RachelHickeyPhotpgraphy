@@ -6,8 +6,6 @@
 This is a static scroll website created for a freelance photographer Rachel Hickey.
 The website provides information about the photographer, examples of her work, links to her social media and a contact form.
 
-Live website https://sophieh93.github.io/RachelHickeyPhotpgraphy/
-
  
 # UX 
 
@@ -90,18 +88,26 @@ Contains the clients social media pages, when clicked the user is brought to the
 
 
 # Technologies used
+## Languages
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+## Frameworks
+* [jQuery](https://jquery.com/)
+* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+* [Font Awesome](https://fontawesome.com/start)
+* [Baguette Box](https://www.javascripting.com/view/baguettebox-js)
+
+
+## Tools 
 * [GitHub](https://github.com/)
 * [GitPod](https://www.gitpod.io/)
 * [Git](https://git-scm.com/about)
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [jQuery](https://jquery.com/)
-* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 * [W3C Markup Validation](https://validator.w3.org/)
 * [WSC CSS Validaion](https://jigsaw.w3.org/css-validator/)
-* [Font Awesome](https://fontawesome.com/start)
-* [Baguette Box](https://www.javascripting.com/view/baguettebox-js)
+
+
+
 
 # Testing 
 For thid project I mainly used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
