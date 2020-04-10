@@ -174,7 +174,7 @@ footer {
     margin-bottom: 3rem;    
 }
 
-/* Adds a shadow to the image when mouse hovers over*/
+
 .tz-gallery .lightbox img:hover {
 	transform: scale(1.2);
     cursor: zoom-in;
@@ -182,7 +182,6 @@ footer {
 }
 
 /* Contact */
-
 #contact {    
     padding-bottom: 3rem;
     background-color: #edeff1;   
@@ -238,7 +237,6 @@ label {
 }
  
 /* Footer */
-
 .social-networks {
     font-size: 2.8rem;
     font-weight: 500;
@@ -284,10 +282,13 @@ margin-left: 0;
     width: 100%;
 }
 
-.form-group  select {
+.form-group {
 font-size: 3rem;
+}   
+
+.custom-select{
+    padding: 0;
 }
-      
 }
 
 /* IPad only */
