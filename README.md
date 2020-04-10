@@ -69,6 +69,8 @@ The website consistes of 4 sections-Home, About, Portfolio and Contact. When the
 
 The layout of the website was created using Bootstrap's grid system, HTML5 and styled by CSS.
 
+Included a customer **scrollbar** which cna be viwed on desktops.
+
 **Navigation:**  
 Created using [Bootstrap](https://getbootstrap.com/docs/4.3/components/navs/) to make it responsive. This fixed, transparent navigation sits above the hero image.
 
