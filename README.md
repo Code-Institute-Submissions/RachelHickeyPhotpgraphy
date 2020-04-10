@@ -105,6 +105,7 @@ Contains the clients social media pages, when clicked the user is brought to the
 * [Git](https://git-scm.com/about)
 * [W3C Markup Validation](https://validator.w3.org/)
 * [WSC CSS Validaion](https://jigsaw.w3.org/css-validator/)
+* [Dirty Markup Formatter](https://www.10bestdesign.com/dirtymarkup/)
 
 
 
@@ -194,7 +195,8 @@ To clone **Rachel Hickey Photography** from GitHub:
 
 # Credits
 * All images used in this site were provided by my client **Rachel Hickey**.  
-* The Gallery was created follow [webseotips](https://www.youtube.com/watch?v=k-RtYiiB47E&amp=&t=151s) Youtube video.
+* The Gallery was created follow **Webseotips** [Youtube](https://www.youtube.com/watch?v=k-RtYiiB47E&amp=&t=151s) video.
+* Scrollbar created by **Online Turtorials** [Youtube](https://www.youtube.com/watch?v=mijLmCD3W9s) video.
 * **Simen Daehlin** my mentor.
 
 **This websit os for educational purposes only.**
