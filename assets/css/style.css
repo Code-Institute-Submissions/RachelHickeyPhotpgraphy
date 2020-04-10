@@ -12,7 +12,6 @@ body {
     
 }
 
-
 ::-webkit-scrollbar {
   width: 1rem;
 }
@@ -53,55 +52,49 @@ span {
 footer {
     background-color: rgba(0, 0, 0, 0.6);
     text-align: center;
-    padding-bottom:1rem;
-    
+    padding-bottom:1rem;    
 }
 
 /* navbar */
 .navbar {
-font-weight: 700;
-text-transform: uppercase;
-font-size: 2.2rem;
-letter-spacing: 1px;
-background: rgba(0, 0, 0, 0.6)!important; 
-
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+    background: rgba(0, 0, 0, 0.6)!important; 
 }
 
- .navbar-brand {
-font-family:  sans-serif;
-font-size: 2.8rem;
-font-weight: 700;
-color: #f16c6b!important;
+.navbar-brand {
+    font-family:  sans-serif;
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #f16c6b!important;
 }
 
 .nav-link {
-    color: #f16c6b!important;
-    
+    color: #f16c6b!important;    
 }
 
 .nav-link:hover {
-    color: #00BFFF !important;
-    
+    color: #00BFFF !important;    
 }
+
 .navbar .navbar-collapse {
     text-align: center;
     margin-right: 1.5rem;
 }
 
 .navbar-nav li {
-    padding-right: .7rem;
-   
+    padding-right: .7rem;   
 }
 
 /* Main section */
-
 #main {
     position: relative;
     background: url("../images/header.jpg") fixed;
     min-height: 100vh;
     background-size: cover;
-    background-position: center;
-    
+    background-position: center;    
 }
 
 #heading {
@@ -116,9 +109,9 @@ color: #f16c6b!important;
     padding: 13px 25px;
     border-radius: 15px;
     background: rgba(33, 33, 33, 0.7);
-    transform: translate(-50%, -50%);
-    
+    transform: translate(-50%, -50%);    
 }
+
 .button {
     position: absolute;
     top: 62%;
@@ -134,24 +127,17 @@ color: #f16c6b!important;
     font-size: 1.8em; 
     font-weight: 900;
     margin: 5px;
-    
 }
  
-
 .btn:hover  {
     color: #81D4FA;
 }
-*/
-
-
 
 /* About */
-#about {
-   
+#about {   
     padding-bottom: 3rem;
     background-color: #edeff1;
 }
-
 
 #selfie {
     border: 2px solid #f16c6b;
@@ -168,10 +154,8 @@ color: #f16c6b!important;
     background-color: #f16c6b;
 } 
 
-
 /* PORTFOLIO */
-#portfolio {
-    
+#portfolio {    
     background: #f0f3f5;
 }
 
@@ -187,8 +171,7 @@ color: #f16c6b!important;
 
 .tz-gallery .lightbox img {
     width: 100%;
-    margin-bottom: 3rem;
-    
+    margin-bottom: 3rem;    
 }
 
 /* Adds a shadow to the image when mouse hovers over*/
@@ -200,21 +183,19 @@ color: #f16c6b!important;
 
 /* Contact */
 
-#contact {
-    
+#contact {    
     padding-bottom: 3rem;
     background-color: #edeff1;   
 } 
 
  #form {
-     margin-top: 1rem;
+    margin-top: 1rem;
  }
 
 .contact-form {
     max-width: 650px;
     padding: 1rem; 
-    margin: auto; 
-       
+    margin: auto;        
 }
 
 .text-input {
@@ -234,7 +215,6 @@ label {
 }
 
 .form-group  select {
-
   margin-top: 2.7rem;
   font-size: 2rem;
   border: 1px solid #f16c6b;
@@ -257,8 +237,6 @@ label {
   font-weight: 600;
 }
  
-
-
 /* Footer */
 
 .social-networks {
@@ -294,147 +272,138 @@ label {
 }
 
 .button {
-   left: 65%;
-   width: 100%;
+left: 65%;
+width: 100%;
 }
 
- #selfie {
- margin-left: 0;
+#selfie {
+margin-left: 0;
+}
 
- }
+.btn-info {
+    width: 100%;
+}
 
- .btn-info {
-     width: 100%;
- }
-
- .form-group  select {
-    font-size: 3rem;
- }
+.form-group  select {
+font-size: 3rem;
+}
       
 }
-
 
 /* IPad only */
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
 
- .navbar-brand {
-     font-size: 1.5rem;
- } 
-
-
+.navbar-brand {
+    font-size: 1.5rem;
+} 
 
 #heading {
-    width: 100%;
-    text-align: center;
-    
+width: 100%;
+text-align: center;    
 }
 
 .button {
-   left: 75%;
-   width: 100%;
+left: 75%;
+width: 100%;
 }
 
 
-    .form-group  select {
-        font-size: 3rem;
-        margin-top: 5rem;
-    }
+.form-group  select {
+font-size: 3rem;
+margin-top: 5rem;
+}
 
-    #submit {
-     font-size: 3rem;
-    }
+#submit {
+    font-size: 3rem;
+}
 
-    .btn-info {
-     width: 100%;
-    }
-         
+.btn-info {
+    width: 100%;
+}
+        
 }
 
 /* IPad landscape */
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-    .button {
-        left: 80%;
-        font-size: 1.5rem;
-    }
-    
-    #selfie {
-        margin-top: 22rem;
-        border-radius: 9.6rem;
-    
-    }
-    
+.button {
+    left: 80%;
+    font-size: 1.5rem;
+}
 
-    .btn-info {
-        width: 100%;
-    }
+#selfie {
+    margin-top: 22rem;
+    border-radius: 9.6rem;
+}
 
-    .form-group  select {
-        font-size: 3rem;
-        margin-top: 5rem;
-    }
+.btn-info {
+    width: 100%;
+}
 
-    #submit {
-     font-size: 3rem;
-    }
+.form-group  select {
+    font-size: 3rem;
+    margin-top: 5rem;
+}
+
+#submit {
+    font-size: 3rem;
+}
 }
 
 /* large devices */
 @media only screen and (max-width : 1024px) {
+
+#heading {
+    width: 100%;
+}
+
+.button {
+    left: 85%;;
+}
+
+.btn{    
+    font-size: 2.5rem;
+}
+
+p {
+    font-size: 2.5rem;
     
-   #heading {
-       width: 100%;
-   }
-   
-    .button {
-        left: 85%;;
-    }
+}
 
-   .btn{
-       
-       font-size: 2.5rem;
-   }
+h2 {
+    font-size: 5rem;
+}
 
-     p {
-        font-size: 2.5rem;
-     
-    }
-    h2 {
-        font-size: 5rem;
-    }
+#selfie {
+margin-top: 22rem;
+border-radius: 10rem;
+}
 
-     #selfie {
-        margin-top: 22rem;
-        border-radius: 10rem;
-    
-    }
+.btn-info {
+    font-size: 2.5rem;
+}
 
-    .btn-info {
-        font-size: 2.5rem;
-    }
+.text-input {
+    font-size: 3.5rem;
+}
 
-    .text-input {
-       font-size: 3.5rem;
-
-    }
-
-    label {
-        font-size: 3rem;
-    }
-
-    .form-group  select {
-        font-size: 4rem;
-        margin-top: 5rem;
-    }
-
-    #submit {
-     font-size: 3rem;
-    }
-
-    .social-networks li a {
-        font-size: 5rem;
-    }
-
-    .copyright {
+label {
     font-size: 3rem;
+}
+
+.form-group  select {
+    font-size: 4rem;
+    margin-top: 5rem;
+}
+
+#submit {
+    font-size: 3rem;
+}
+
+.social-networks li a {
+    font-size: 5rem;
+}
+
+.copyright {
+font-size: 3rem;
 }
 }
