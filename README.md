@@ -3,22 +3,22 @@
 ![](assets/images/Capture.JPG)
 
 
-This is a static scroll website created for a freelance photographer Rachel Hickey.
+This is a static scroll website created for a freelance photographer **Rachel Hickey**.
 The website provides information about the photographer, examples of her work, links to her social media and a contact form.
 
  
 # UX 
 
 **Target Audience** - General people who have an upcoming event, people
-who like the clients work and would like to be a model, people who would like to advertise thier
+who like the clients work and would like to be a model, people who would like to advertise their
 new business e.g new fashion brand, new music band etc.
 
 ## User Goals:
-* Responsive on mobile, tabley & desktop.   
-* Brief description of who the client is & her services.   
-* Gallery examples of the service.  
-* Contact form if the user wished to book a session.
-* Socia media links to if the user wished to view morew of the clients work and follow her.
+* Responsive on mobile, tablet & desktop.   
+* Brief description of who the client is and her services.   
+* Examples of the clients work.  
+* Contact form if the user wishes to book a session.
+* Socia media links if the user wishes to view morew of the clients work and follow her.
  
 ## User Story:
 
@@ -35,7 +35,7 @@ I went with [Open Sans](https://fonts.google.com/specimen/Open+Sans) as suggeste
 
 
 **Icons:**  
-I used icons from [Font Awesome](https://fontawesome.com/start) to display the **camera** on the navigation brand, the social media links -**Facebook** and **Instagram** in the footer of the website and I used the **bars** to display the 'burger button' on mobile devises.
+I used icons from [Font Awesome](https://fontawesome.com/start) to display the **camera** on the navigation brand, the social media links **Facebook** and **Instagram** in the footer of the website and I used the **bars** to display the *burger button* on mobile devices.
 
 
 **Colors:**  
@@ -45,28 +45,28 @@ The **primary** color of the website is **#f16c6b** -*Soft Red* which is used in
 the **input** section on the contact form and for the **copyright**.  
 It compliments the images on the webite and makes the navigation stand out above the hero image.
 
-The **secondary** color **#00BFFF** - *Deep Sky Blue* is used as the header 2 -**h2** color for the different sections of the website, the **hover effect** on the navigation links, text-inout on the form and for the social media icons in the footer.
+The **secondary** color **#00BFFF** - *Deep Sky Blue* is used for the **hover effects** on the navigation links, text-inout on the form and for the social media icons in the footer.
 
 *List of all the color codes:*
 * #f16c6b - Soft red.
 * #00BFFF - Deep sky blue
-* Navigation transparent background -  rgba(0, 0, 0, 0.6)!important.
+* Navigation transparent background -  rgba(0, 0, 0, 0.6).
 * #0044ff - Navey blue - h2.
+* 81D4FA - Heading (h1).
 * #edeff1 - Solitude - About & Contact background.
 * #fafafa - Snow - Submit font color.
-* #ee9797 - Sea Pink - Sumbit & social media links background hover.
+* #ee9797 - Sea Pink - Sumbit/social media links background hover.
 
 
 
 # Wireframes
 I created my wireframes on [Wireframe.cc](https://wireframe.cc/). I created basic wireframes for desktop, tablet and mobile devices.
-To view my wireframes please see my **Wireframes**+3
-. folder.
+To view my wireframes please see my **Wireframes** folder.
 
 # Features of the Website 
 The website consistes of 4 sections-Home, About, Portfolio and Contact. When the user clicks on one of these tabs the website will scroll to that section.
 
-The layout of the website was created using Bootstrap's grid system and styled by CSS.
+The layout of the website was created using Bootstrap's grid system, HTML5 and styled by CSS.
 
 **Navigation:**  
 Created using [Bootstrap](https://getbootstrap.com/docs/4.3/components/navs/) to make it responsive. This fixed, transparent navigation sits above the hero image.
@@ -111,7 +111,7 @@ Contains the clients social media pages, when clicked the user is brought to the
 
 
 # Testing 
-For thid project I mainly used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+For this project I mainly used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 to test the styling and layout and responsiveness of the website on the different devices-Mobile, Tablet and Desktop.
 
 [W3C Markup Validaion](https://validator.w3.org/) was used to validate my HTML & CSS code. <br>
@@ -135,6 +135,7 @@ I added this form validation by including the html5 attribute **required**.
 ### **Footer:**  
 If the user clicks on the social media link, it will open the clients social media account in a new tab.
 
+    
 
 I used the lighthouse testing to test the performance on mobile and desktops.  
 **Mobile & Desktop**-same result:   
@@ -143,9 +144,9 @@ I used the lighthouse testing to test the performance on mobile and desktops.
 
 
 # Bugs
-During this project the main bugs I in encountered was with the navigation. See below for a detailed explanation.
+During this project the main bugs I encountered was with the navigation. See below for a detailed explanation.
 ### **Navigation Bugs:**
-1. **Bug 1-Background Color-**   
+1. **Bug 1:**   
      *  As I wanted to have the navigation bar to be fixed on top of the **hero** image the first bug I encountered
      was finding a background color for the Navigation that also complimented the hero image. I did not like the solid background colors as I felt that
      this was too harsh on the hero image.   
@@ -153,7 +154,7 @@ During this project the main bugs I in encountered was with the navigation. See 
     **The Fix:**
     * I decieded to use a transparent background using rgba(0, 0, 0, 0.6) code. This does not cover anyof the hero image.       
 
-2. **Bug 2-Font Color-**   
+2. **Bug 2:**   
      * As I decided to go with the transparent background for the navigation this then caused difficulty finding the color
      to use for the navigation links. The traditional colors such as black and white blended into the hero image so these were not suitable.  
     As most of the images on the website consists of the colours pink, green, blue and purple I started playing with these colors for the navigation links on [color picker](https://htmlcolorcodes.com/color-picker/).
@@ -161,7 +162,7 @@ During this project the main bugs I in encountered was with the navigation. See 
     **The Fix:**
     * I settled for the colors **#f16c6b** for the nav links and nav brand and the color **#00BFFF** for the hover effect as I felt these stood out onto of the hero image best.
 
-3. **Bug 2-Toggle Bar -**   
+3. **Bug 3:**   
      * The navigation toggle button was too large on phones and small devices as it covered too much of the hero image.  
 
     **The Fix:**
@@ -199,4 +200,4 @@ To clone **Rachel Hickey Photography** from GitHub:
 * Scrollbar created by **Online Turtorials** [Youtube](https://www.youtube.com/watch?v=mijLmCD3W9s) video.
 * **Simen Daehlin** my mentor.
 
-**This websit os for educational purposes only.**
+**This websit is for educational purposes only.**
