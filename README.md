@@ -117,7 +117,9 @@ Contains the clients social media pages, when clicked the user is brought to the
 For this project I mainly used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 to test the styling and layout and responsiveness of the website on the different devices-Mobile, Tablet and Desktop.
 
-[W3C Markup Validaion](https://validator.w3.org/) was used to validate my HTML & CSS code. <br>
+[W3C Markup Validaion](https://validator.w3.org/) was used to validate my HTML & CSS code. 
+
+The website was tested on mulltiple devices such as dekstop, ipdad and multiple phone types e.g Iphone, Huawei and Samsung.
 
 ### **Navigation:**  
 I tested that the navigation links worked and brought the user to the correct section of the website.
