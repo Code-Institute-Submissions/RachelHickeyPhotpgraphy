@@ -118,34 +118,30 @@ color: #f16c6b!important;
     transform: translate(-50%, -50%);
     
 }
-
- .btn-primary  {
+.button {
     position: absolute;
-    top: 60%;
+    top: 62%;
     left: 50%;
-    width: 15%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    border: 1px solid #ffff;
+    padding: 10px 30px;
     color: #000;
-    font-size: 1.8em;    
-    font-weight: 900;
     background-color: #f16c6b;
+    font-size: 1.8em; 
+    font-weight: 900;
+    margin: 5px;
     
 }
+ 
 
-.btn-secondary {
-    position: absolute;
-    top: 60%;
-    left: 34%;
-    width: 15%;
-    color: #000;
-    font-size: 1.8em;    
-    font-weight: 900;
-    background-color: #f16c6b;
+.btn:hover  {
+    
+    color: #81D4FA;
 }
-
-.btn-secondary:hover  {
-    background: #1976D2;
-}
-
+*/
 
 
 
