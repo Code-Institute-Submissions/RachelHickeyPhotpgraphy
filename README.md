@@ -1,6 +1,6 @@
 # IAmRachelHickey
 
-![](assets/images/Capture.JPG)
+![](assets/images/capture.JPG)
 
 
 This is a static scroll website created for a freelance photographer **Rachel Hickey**.
