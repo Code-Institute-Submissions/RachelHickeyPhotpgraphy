@@ -30,6 +30,7 @@ body {
 
 
 h2 {
+     padding-top: 6rem;
     text-align: center;
     font-size: 4rem;
     font-weight: 700;
@@ -138,7 +139,6 @@ color: #f16c6b!important;
  
 
 .btn:hover  {
-    
     color: #81D4FA;
 }
 */
@@ -147,7 +147,7 @@ color: #f16c6b!important;
 
 /* About */
 #about {
-    padding-top: 6rem;
+   
     padding-bottom: 3rem;
     background-color: #edeff1;
 }
@@ -171,7 +171,7 @@ color: #f16c6b!important;
 
 /* PORTFOLIO */
 #portfolio {
-    padding-top: 6rem;
+    
     background: #f0f3f5;
 }
 
@@ -201,7 +201,7 @@ color: #f16c6b!important;
 /* Contact */
 
 #contact {
-    padding-top: 6rem;
+    
     padding-bottom: 3rem;
     background-color: #edeff1;   
 } 
