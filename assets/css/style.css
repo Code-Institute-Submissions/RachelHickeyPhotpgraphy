@@ -13,7 +13,7 @@ body {
 }
 
 ::-webkit-scrollbar {
-  width: 1rem;
+  width: 1.5rem;
 }
  
 ::-webkit-scrollbar-thumb {
@@ -272,8 +272,8 @@ label {
 }
 
 .button {
-left: 65%;
-width: 100%;
+    width: 100%;
+    left: 63%!important;
 }
 
 #selfie {
