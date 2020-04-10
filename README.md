@@ -149,10 +149,10 @@ During this project the main bugs I encountered was with the navigation. See bel
 1. **Bug 1:**   
      *  As I wanted to have the navigation bar to be fixed on top of the **hero** image the first bug I encountered
      was finding a background color for the Navigation that also complimented the hero image. I did not like the solid background colors as I felt that
-     this was too harsh on the hero image.   
+     this was too harsh on top of the hero image.   
 
     **The Fix:**
-    * I decieded to use a transparent background using rgba(0, 0, 0, 0.6) code. This does not cover anyof the hero image.       
+    * I decieded to use a transparent background using rgba(0, 0, 0, 0.6) code. This does not cover any of the hero image.       
 
 2. **Bug 2:**   
      * As I decided to go with the transparent background for the navigation this then caused difficulty finding the color
@@ -181,7 +181,7 @@ I deployed the websit using **GitHub's pages**. The steps are as follows:
 2. On the top right select **settings**.
 3. Scroll down to the **GitHub Pages** area.
 4. From the **Source** dropdown menu click on **Master Branch**.
-5. Your site is published at https://sophieh93.github.io/RachelHickeyPhotpgraphy/
+5. Refresh the page and scroll back down to the **GitHub Pages** area to view the link to your live website.
 
 ### Running the website Locally:
 To clone **Rachel Hickey Photography** from GitHub:
