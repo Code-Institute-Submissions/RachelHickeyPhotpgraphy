@@ -6,6 +6,7 @@
 This is a static scroll website created for a freelance photographer **Rachel Hickey**.
 The website provides information about the photographer, examples of her work, links to her social media and a contact form.
 
+Click [here](https://sophieh93.github.io/RachelHickeyPhotpgraphy/) to view my live website.
  
 # UX 
 
