@@ -288,10 +288,13 @@ label {
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 480px) {
     
- .hero-text {
-    top: 65%;
-    
- }
+    #heading {
+        width: 100%;
+        font-size: 2.5rem;
+    }
+.button {
+   
+}
 
  #selfie {
  margin-left: 0;
